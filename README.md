@@ -44,7 +44,7 @@ A simple script to manage ssh connections on *inx ( Such as UNIX, Linux, Mac OS,
 ## Installation
 
     $ cd ~
-    $ wget --no-check-certificate https://raw.github.com/robinparisi/ssh-manager/master/ssh-manager.sh
+    $ wget --no-check-certificate https://raw.github.com/m9rco/ssh-manager/master/ssh-manager.sh
     $ chmod +x ssh-manager.sh
     $ ./ssh-manager.sh
     
